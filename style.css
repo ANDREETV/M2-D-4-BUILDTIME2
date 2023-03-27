@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenitore{
+    margin: 20px 20px;
+}
+
+.content:first-of-type{
+    margin-bottom: 10px;
+}
+
+.content input{
+    padding: 10px;
+    font-size: 1em;
+}
+
+.content:first-of-type input:last-of-type{
+    margin-right: 10px;
+}
+
+.content button{
+    margin-right: 10px;
+    padding: 10px;
+}
